@@ -2474,3 +2474,9 @@ select.mobile-device {
     justify-content: center;
     
 }
+.form-control a {
+    color: rgba(255, 255, 255, 0.6);
+}
+.form-control a:hover {
+    color: rgba(231, 10, 10, 0.6);
+}
