@@ -2480,3 +2480,7 @@ select.mobile-device {
 .form-control a:hover {
     color: rgba(231, 10, 10, 0.6);
 }
+.web-preview-description {
+    width: 96%;
+    padding-left: 5%;
+}
